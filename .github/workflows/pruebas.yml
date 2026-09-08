@@ -23,4 +23,4 @@ jobs:
         
     - name: Ejecutar pytest
       run: |
-        pytest
+        python -m pytest
